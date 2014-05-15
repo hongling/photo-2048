@@ -1,0 +1,32 @@
+.tile.tile-2 .tile-inner {background-image: url(photo/TZ001.png)}
+@media screen and (max-width: 520px) {.tile.tile-2 .tile-inner {background-size: 58px 58px}}
+.tile.tile-4 .tile-inner {background-image: url(photo/TZ002.png)}
+@media screen and (max-width: 520px) {.tile.tile-4 .tile-inner {background-size: 58px 58px}}
+.tile.tile-8 .tile-inner {background-image: url(photo/TZ003.png)}
+@media screen and (max-width: 520px) {.tile.tile-8 .tile-inner {background-size: 58px 58px}}
+.tile.tile-16 .tile-inner {background-image: url(photo/TZ004.png)}
+@media screen and (max-width: 520px) {.tile.tile-16 .tile-inner {background-size: 58px 58px}}
+.tile.tile-32 .tile-inner {background-image: url(photo/TZ005.png)}
+@media screen and (max-width: 520px) {.tile.tile-32 .tile-inner {background-size: 58px 58px}}
+.tile.tile-64 .tile-inner {background-image: url(photo/TZ006.png)}
+@media screen and (max-width: 520px) {.tile.tile-64 .tile-inner {background-size: 58px 58px}}
+.tile.tile-128 .tile-inner {background-image: url(photo/TZ007.png)}
+@media screen and (max-width: 520px) {.tile.tile-128 .tile-inner {background-size: 58px 58px}}
+.tile.tile-256 .tile-inner {background-image: url(photo/TZ008.png)}
+@media screen and (max-width: 520px) {.tile.tile-256 .tile-inner {background-size: 58px 58px}}
+.tile.tile-512 .tile-inner {background-image: url(photo/TZ009.png)}
+@media screen and (max-width: 520px) {.tile.tile-512 .tile-inner {background-size: 58px 58px}}
+.tile.tile-1024 .tile-inner {background-image: url(photo/TZ010.png)}
+@media screen and (max-width: 520px) {.tile.tile-1024 .tile-inner {background-size: 58px 58px}}
+.tile.tile-2048 .tile-inner {background-image: url(photo/TZ011.png)}
+@media screen and (max-width: 520px) {.tile.tile-2048 .tile-inner {background-size: 58px 58px}}
+.tile.tile-4096 .tile-inner {background-image: url(photo/TZ012.png)}
+@media screen and (max-width: 520px) {.tile.tile-4096 .tile-inner {background-size: 58px 58px}}
+.tile.tile-8192 .tile-inner {background-image: url(photo/TZ013.png)}
+@media screen and (max-width: 520px) {.tile.tile-8192 .tile-inner {background-size: 58px 58px}}
+.tile.tile-16384 .tile-inner {background-image: url(photo/TZ014.png)}
+@media screen and (max-width: 520px) {.tile.tile-16384 .tile-inner {background-size: 58px 58px}}
+.tile.tile-32768 .tile-inner {background-image: url(photo/TZ015.png)}
+@media screen and (max-width: 520px) {.tile.tile-32768 .tile-inner {background-size: 58px 58px}}
+.tile.tile-65536 .tile-inner {background-image: url(photo/TZ016.png)}
+@media screen and (max-width: 520px) {.tile.tile-65536 .tile-inner {background-size: 58px 58px}}
