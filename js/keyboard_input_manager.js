@@ -79,6 +79,7 @@ KeyboardInputManager.prototype.listen = function () {
 
   //Magic for click on best-container //by hongling
   this.bindButtonPress(".best-container", this.autorun);
+  this.bindButtonPress(".score-container", this.undo);
 
   var hintButton = document.getElementById('hint-button');
   if(hintButton)
@@ -175,3 +176,12 @@ KeyboardInputManager.prototype.autorun = function (event) {
   event.preventDefault();
   this.emit("run");
 };
+
+KeyboardInputManager.prototype.undo = function (event) {
+  event.preventDefault();
+  var feedbackContainer  = document.getElementById('feedback-container');
+  if(feedbackContainer)
+    feedbackContainer.innerHTML = ' ';
+  this.emit("move", -1);
+};
+
